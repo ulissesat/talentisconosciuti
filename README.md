@@ -1,4 +1,4 @@
-# talentisconosciuti
+# talentisconosciuti ![Talenti Sconosciuti](copertina-fronte.jpg)
 Repository del libro Talenti Sconosciuti - I segreti dell'informatica
 
 # 📖 TALENTI SCONOSCIUTI: i segreti dell'informatica
